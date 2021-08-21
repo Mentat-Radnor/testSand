@@ -13,6 +13,8 @@ https://codesandbox.io/s/cocky-brook-71oeh?file=/src/App.vue
 1. Вынес все стиле в computed - но не думаю, что это является багом. 
 Интересно узнать решение данной задачи
 
+https://codesandbox.io/s/infallible-haslett-j4dv0?file=/src/components/ButtonComponent.vue
+
 Задача №3
 Добавил elementsCount.
 
